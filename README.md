@@ -1,4 +1,4 @@
-# Hi there, I'm Lokesha 👋
+# Hi there, I'm Lokesh 👋
 
 Welcome to my GitHub profile! I'm passionate about ML and love to explore new technologies. Here's a little bit about me:
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about ML and love to explore new te
 - 🌱 I’m currently learning advanced React and Node.js.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, JavaScript, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:imlokesha@example.com)
+- 📫 How to reach me: [Email](mailto:imlokeshak@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
