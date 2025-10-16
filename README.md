@@ -1,6 +1,6 @@
 # Hi there, I'm Lokesha 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and love to explore new technologies. Here's a little bit about me:
+Welcome to my GitHub profile! I'm passionate about ML and love to explore new technologies. Here's a little bit about me:
 
 ## 🚀 About Me
 
@@ -12,9 +12,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Python, Java
-- **Frontend:** React, Redux, HTML, CSS, SASS
-- **Backend:** Node.js, Express, MongoDB, SQL
+- **Languages:** Python
+- **Backend:** MongoDB, SQL
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Others:** Git, GitHub, VSCode, Postman
 
