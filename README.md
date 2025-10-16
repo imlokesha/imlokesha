@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about ML and love to explore new te
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various web and mobile application projects.
+- 🔭 I’m currently working on ML, DL and AI projects.
 - 🌱 I’m currently learning advanced React and Node.js.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, JavaScript, and open-source contributions.
@@ -25,14 +25,6 @@ Welcome to my GitHub profile! I'm passionate about ML and love to explore new te
 
 - [LinkedIn](https://www.linkedin.com/in/imlokesha)
 - [Twitter](https://twitter.com/imlokesha)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Closures](https://www.imlokesha.com/blog/understanding-javascript-closures)
-- [A Guide to Responsive Web Design](https://www.imlokesha.com/blog/guide-to-responsive-web-design)
-- [Introduction to Docker for Beginners](https://www.imlokesha.com/blog/introduction-to-docker)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
